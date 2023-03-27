@@ -1,0 +1,32 @@
+youtube link: https://www.youtube.com/watch?v=qJ5R9WTW0_E&t=2215s
+Nodejs y Mysql, Aplicación Completa (Login, Registro, CRUD, ES6+ y Más )
+
+notas
+
+npm init --y
+
+npm i express express-handlebars express-session mysql express-mysql-session morgan bcryptjs passport passport-local timeago.js connect-flash express-validator
+
+
+express-handlebars
+express-session
+express-session
+mysql
+xpress-mysql-session
+morgan
+bcryptjs
+passport
+passport-local
+timeago.js
+connect-flash
+express-validator
+
+create folder > src
+
+npm i nodemon -D
+
+cd src
+
+mkdir lib public routes views
+
+touch keys.js database.js index.js
